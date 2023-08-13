@@ -1,4 +1,4 @@
-Hi there 👋🏻👨🏻‍💻
+# Hi there 👋🏻👨🏻‍💻
 
 🌱 Passion and curious about tech world
 
