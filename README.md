@@ -1,9 +1,8 @@
 # Hi there 👋🏻👨🏻‍💻
+My Name is Hossein 
+✏️ currently i am learning programing with C# with focus of Backend Development 
 
 🌱 Passion and curious about tech world
-
-✏️ currently i am learning programing with C#
-
 🔅 love join a team for more experience
 
 # My Tech Stack
