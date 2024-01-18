@@ -2,7 +2,7 @@
 
 My Name is Hossein 
 
-✏️ currently i'm learning C# with focus of Backend Development 
+✏️ Junior C# Developer - Learning Backend-Development  
 
 🌱 Passion and curious about tech world
 
