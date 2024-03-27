@@ -2,7 +2,7 @@
 
 My Name is Hossein 
 
-✏️ Junior C# Developer - Learning Backend-Development  
+✏️ Junior Backend Developer - Asp.net Core
 
 🌱 Passion and curious about tech world
 
