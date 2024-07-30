@@ -2,7 +2,7 @@
 
 My Name is Hossein 
 
-✏️ Junior Backend Developer - Asp.net Core
+✏️ Backend Developer - Asp.net Core
 
 🌱 Passion and curious about tech world
 
